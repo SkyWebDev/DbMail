@@ -2,6 +2,7 @@
   "name": "skywebdev/laravel-db-mail",
   "description": "Allow users to edit email (blade) templates",
   "type": "library",
+  "homepage": "https://github.com/SkyWebDev/DbMail",
   "license": "MIT",
   "authors": [
     {
