@@ -174,6 +174,13 @@ Next, edit body column of newly added template in ``` blade_templates ``` table.
 Button Text DB
 </x-mail::button>
 ```
+
+Clear view cache
+
+```bash
+php artisan view:clear
+```
+
 Refresh ``` <app_url>/mail ``` in browser and you will see something like this
 
 ![img_1.png](img_1.png)
